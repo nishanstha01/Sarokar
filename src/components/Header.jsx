@@ -6,7 +6,6 @@ import MenuSvg from "../assets/svg/MenuSvg";
 import { HamburgerMenu } from "./design/Header";
 import { useState } from "react";
 import logo from "./design/sik.jpg";
-import { Link } from "react-router-dom";
 
 const Header = () => {
   const pathname = useLocation();

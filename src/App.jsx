@@ -8,8 +8,6 @@ import Collaboration from "./components/Collaboration";
 import Services from "./components/Services";
 import Footer from "./components/Footer";
 import Videos from "./components/Videos";
-import { Routes, Route } from "react-router-dom";
-import { Link } from "react-router-dom";
 
 const App = () => {
   return (
